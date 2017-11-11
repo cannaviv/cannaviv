@@ -8,18 +8,6 @@
 #header4-0 I {
   color: #ffffff;
 }
-#menu-1 .mbr-brand__name {
-  font-size: 16px;
-}
-#menu-1.mbr-navbar--stuck .mbr-navbar__section {
-  background: #2c2c2c;
-}
-#menu-1 .mbr-navbar__section {
-  background: #2c2c2c;
-}
-#menu-1 .mbr-navbar__hamburger {
-  color: #ffffff;
-}
 #header1-4 H1 {
   color: #1abc9c;
 }
@@ -30,5 +18,14 @@
   color: #ffffff;
 }
 #msg-box4-5 .mbr-article {
+  color: #ffffff;
+}
+#menu-8 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-8.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-8 .mbr-navbar__hamburger {
   color: #ffffff;
 }
