@@ -12,7 +12,8 @@
   color: #1abc9c;
 }
 #header1-4 P {
-  color: #efefef;
+  color: #000000;
+  text-align: left;
 }
 #msg-box4-5 .mbr-header__text {
   color: #ffffff;
