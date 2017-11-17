@@ -11,6 +11,9 @@
 #header1-4 H1 {
   color: #1abc9c;
 }
+#header1-4 P {
+  color: #efefef;
+}
 #msg-box4-5 .mbr-header__text {
   color: #ffffff;
 }
