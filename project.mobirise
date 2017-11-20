@@ -9,7 +9,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "4.4.1",
-    "uniqCompNum": 28,
+    "uniqCompNum": 29,
     "versionPublish": "4.4.1",
     "favicon": "",
     "noImageResize": ""
@@ -91,7 +91,7 @@
           },
           "title": "Ideas to Perfection",
           "text": "CannAVIV ™ develops and enhances the highest quality solutions for medical and adult cannabis consumers available.",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"index.html#msg-box4-5\" data-toolbar=\"-mbrBtnMove\">CONCENTRATE</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"index.html#content5-q\" data-toolbar=\"-mbrBtnMove\">EXPAND YOUR IDEA</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"index.html#msg-box4-5\" data-toolbar=\"-mbrBtnMove\">CONCENTRATE</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"index.html#content4-r\" data-toolbar=\"-mbrBtnMove\">EXPAND YOUR IDEA</a>",
           "_tags": [
             "Theme"
           ],
@@ -106,74 +106,6 @@
               "text-align": "left"
             }
           }
-        },
-        {
-          "_inherit": "msg-box5",
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
-            "imageSize": 50,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#f97352",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-2-1620x1080.jpg",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "Concentrate",
-          "text": "Extracting the essence of Cannabis yealds the full spectrum of flavors and compounds - terpenes, lanolenes, THC, CBD, and more - those that create a rich and layered quality consumer experience. A powerful new movement is changing all aspects of how and why cannabis can be used.",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".mbr-header__text": {
-              "color": "#ffffff"
-            },
-            ".mbr-header__subtext": {
-              "color": "#ffffff"
-            },
-            ".mbr-article": {
-              "color": "#ffffff"
-            }
-          },
-          "headerAlign": "left",
-          "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"index.html#contacts3-b\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-5"
         },
         {
           "_inherit": "msg-box3",
@@ -199,7 +131,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "images/bg3.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-5-1620x1080.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -375,6 +307,125 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "_name": "content4",
           "_anchor": "content4-r"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            },
+            ".mbr-article P": {
+              "text-align": "center",
+              "color": "#efefef"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-1620x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": true,
+            "overlay": true,
+            "overlayColor": "#28324e",
+            "overlayOpacity": 0.2
+          },
+          "title": "Colorado, USA",
+          "text": "<p>Adapting and integrating great practices for Medical use, CannAVIV's™ customer and product developement teams bridge between Israel's medical regulation authority in adapting Adult Use solutions into the Medical use market, and vice-versa. Situation in the first State to legalize Adult Use cannabis, CannAVIV™ Colorado is our prime testing ground for fast product innovation, process developement, and exploration at all stages of the legal manufacture of Adult Use Cannabis.</p><p><a href=\"index.html#contacts3-b\">How can help your project move forward?</a></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "_name": "content5",
+          "_anchor": "content5-s"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f97352",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mbr-2-1620x1080.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Concentrate",
+          "text": "Extracting the essence of Cannabis yealds the full spectrum of flavors and compounds - terpenes, lanolenes, THC, CBD, and more - those that create a rich and layered quality consumer experience. A powerful new movement is changing all aspects of how and why cannabis can be used.",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"index.html#contacts3-b\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-5"
         },
         {
           "_styles": {
