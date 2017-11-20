@@ -83,6 +83,9 @@
 #menu-8 .mbr-navbar__hamburger {
   color: #ffffff;
 }
+#contacts3-b P {
+  font-size: 14px;
+}
 #msg-box3-n .mbr-header .mbr-header__text {
   text-align: center;
 }
@@ -100,4 +103,7 @@
 }
 #menu-d .mbr-navbar__hamburger {
   color: #ffffff;
+}
+#contacts3-e P {
+  font-size: 14px;
 }
