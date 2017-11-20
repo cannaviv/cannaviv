@@ -772,7 +772,7 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">CONTACT US</a>",
-          "text1": "<br>\n<strong>CONTACT</strong><br>\nEmail: cannaviv@gmail.com<br><br><br>All information, claims, or representations contained on this Site are speculative and pending and subject to licencing and regulatory approval in process. Please see Terms of Use and Privacy Policy for more information.<br><br>",
+          "text1": "<br>\n<strong>CONTACT</strong><br>\nEmail: cannaviv@gmail.com<br><br><br>*All information, claims, or representations contained on this Site are speculative and pending and subject to licencing and regulatory approval in process. Please see Terms of Use and Privacy Policy for more information.<br><br>",
           "text2": "<ul class=\"mbr-contacts__list\"></ul>",
           "form": {
             "title": "MESSAGE",
@@ -927,7 +927,7 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">CONTACT US</a>",
-          "text1": "<br>\n<strong>CONTACT</strong><br>\nEmail: cannaviv@gmail.com<br><br><br>All information, claims, or representations contained on this Site are speculative and pending and subject to licencing and regulatory approval in process. Please see Terms of Use and Privacy Policy for more information.<br><br>",
+          "text1": "<br>\n<strong>CONTACT</strong><br>\nEmail: cannaviv@gmail.com<br><br><br>*All information, claims, or representations contained on this Site are speculative and pending and subject to licencing and regulatory approval in process. Please see Terms of Use and Privacy Policy for more information.<br><br>",
           "text2": "<ul class=\"mbr-contacts__list\"></ul>",
           "form": {
             "title": "MESSAGE",
