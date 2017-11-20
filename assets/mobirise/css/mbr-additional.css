@@ -44,6 +44,18 @@
   text-align: center;
   color: #efefef;
 }
+#msg-box1-10 .mbr-header .mbr-header__text {
+  color: #fff;
+}
+#msg-box1-10 .mbr-article {
+  color: #fff;
+}
+#content4-z P {
+  text-align: left;
+}
+#content4-z .mbr-section__col .mbr-header__text {
+  text-align: left;
+}
 #msg-box2-x .mbr-header .mbr-header__text {
   color: #252525;
 }
@@ -59,12 +71,6 @@
 #msg-box4-5 .mbr-article {
   color: #ffffff;
 }
-#msg-box1-10 .mbr-header .mbr-header__text {
-  color: #fff;
-}
-#msg-box1-10 .mbr-article {
-  color: #fff;
-}
 #menu-8 .mbr-brand__name {
   font-size: 16px;
 }
@@ -76,9 +82,6 @@
 }
 #menu-8 .mbr-navbar__hamburger {
   color: #ffffff;
-}
-#content4-z P {
-  text-align: center;
 }
 #msg-box3-n .mbr-header .mbr-header__text {
   text-align: center;
