@@ -9,7 +9,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "4.4.1",
-    "uniqCompNum": 29,
+    "uniqCompNum": 35,
     "versionPublish": "4.4.1",
     "favicon": "",
     "noImageResize": ""
@@ -202,7 +202,7 @@
               "size": 0
             }
           },
-          "title1": "Quality of Life",
+          "title1": "QUALITY OF LIFE",
           "caption1": "<b>Pain management</b> and <b>reduced reliance on opiods/narcotics</b>. Targetted <b>weight gain or loss based</b> on personal endocanabinoid system identification and strain/terpene matching<b><br></b>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
@@ -222,7 +222,7 @@
               "size": 0
             }
           },
-          "title2": "Cancer Research",
+          "title2": "CANCER RESEARCH",
           "caption2": "Israel is THE world's lab for groundbreaking research into cannabis' potential to <b>prevent, slow, or reverse certain cancers</b>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
@@ -242,7 +242,7 @@
               "size": 0
             }
           },
-          "title3": "Mental Health",
+          "title3": "MENTAL HEALTH",
           "caption3": "<b>Post Traumatic Stress Disorder</b> (PTSD), <b>Anxiety</b>, <b>Insomnia</b>, and <b>Bullimia</b><br><br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
@@ -262,7 +262,7 @@
               "size": 0
             }
           },
-          "title4": "Brain Health/Recovery",
+          "title4": "BRAIN HEALTH/RECOVERY",
           "caption4": "<b>Reducing</b>&nbsp;<b>Seazure</b> intensity and length, <b>Traumatic Brain Injury</b> (TBI) prevention and imporoved recovery outlooks",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media5": {
@@ -282,7 +282,7 @@
               "size": 0
             }
           },
-          "title5": "CBD &amp; Microdosing",
+          "title5": "CBD &amp; MICRODOSING",
           "caption5": "Non-psychoactive compounds (<b>CBD</b>), terpenes, and doses below the common threshold for human intoxication create <b>unintoxicating yet potentially very powerful beneficial effects on the body</b>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media6": {
@@ -350,7 +350,7 @@
             "overlayOpacity": 0.2
           },
           "title": "Colorado, USA",
-          "text": "<p>Adapting and integrating great practices for Medical use, CannAVIV's™ customer and product developement teams bridge between Israel's medical regulation authority in adapting Adult Use solutions into the Medical use market, and vice-versa. Situation in the first State to legalize Adult Use cannabis, CannAVIV™ Colorado is our prime testing ground for fast product innovation, process developement, and exploration at all stages of the legal manufacture of Adult Use Cannabis.</p><p><a href=\"index.html#contacts3-b\">How can help your project move forward?</a></p>",
+          "text": "<p>Adapting and integrating great practices for Medical use, CannAVIV's™ customer and product developement teams bridge between Israel's medical regulation authority in adapting Adult Use solutions into the Medical use market, and vice-versa. Situated in the first State to legalize Adult Use cannabis, CannAVIV™ Colorado is our prime testing ground for fast product innovation, process developement, and exploration at all stages of the legal manufacture of Adult Use Cannabis.</p><p><a href=\"index.html#contacts3-b\">How can help your project move forward?</a></p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
@@ -358,6 +358,44 @@
           "meta": "By John Smith posted July 30, 2015",
           "_name": "content5",
           "_anchor": "content5-s"
+        },
+        {
+          "_inherit": "msg-box1",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#252525"
+            },
+            ".mbr-article": {
+              "color": "#252525"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "paddingTop": 2,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "EXACT DOSES YIELD MORE PREDICTABLE AND REGULATED OUTCOMES FOR ALL INDICATIONS.",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"index.html#contacts3-b\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-x"
         },
         {
           "_inherit": "msg-box5",
@@ -405,7 +443,7 @@
               "size": 0
             }
           },
-          "title": "Concentrate",
+          "title": "Concentrating is the Key",
           "text": "Extracting the essence of Cannabis yealds the full spectrum of flavors and compounds - terpenes, lanolenes, THC, CBD, and more - those that create a rich and layered quality consumer experience. A powerful new movement is changing all aspects of how and why cannabis can be used.",
           "_tags": [
             "Theme"
@@ -485,6 +523,180 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#444444",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2017 CannAVIV™ . <a class=\"mbr-footer__link text-gray\" href=\"page1.html\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"page1.html\">Privacy Policy</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-c"
+        },
+        {
+          "_inherit": "features1",
+          "_params": {
+            "showHeader": false,
+            "showSubheader": false,
+            "showImages": false,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "columns": 5,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "images/bootstrap.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "CONSISTANCY OF PRODUCT",
+          "caption1": "Bootstrap&nbsp;",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "images/responsive.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "CONSISTANCY OF DOSE",
+          "caption2": "One&nbsp;",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "images/google-fonts.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "SCALABILITY OF DOSE",
+          "caption3": "Solutions",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "images/unlimited-websites.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "Targetted Strain/CBD/ endocannabinoid user/disease specific products&nbsp;",
+          "caption4": "gdfsfdfs",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "_name": "content4",
+          "_anchor": "content4-y"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
             "bgColor": "#3c3c3c",
             "overlay": true,
             "overlayColor": "#3C3C3C",
@@ -526,26 +738,6 @@
           ],
           "_name": "contacts3",
           "_anchor": "contacts3-b"
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#444444",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "Copyright (c) 2017 CannAVIV™ . <a class=\"mbr-footer__link text-gray\" href=\"page1.html\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"page1.html\">Privacy Policy</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-c"
         }
       ]
     },
