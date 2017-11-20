@@ -9,7 +9,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "4.4.1",
-    "uniqCompNum": 35,
+    "uniqCompNum": 37,
     "versionPublish": "4.4.1",
     "favicon": "",
     "noImageResize": ""
@@ -120,6 +120,9 @@
             },
             ".mbr-article": {
               "color": "#fff"
+            },
+            ".mbr-article P": {
+              "color": "#efefef"
             }
           },
           "_params": {
@@ -142,10 +145,10 @@
             "darkBackground": true,
             "overlay": true,
             "overlayColor": "#28324e",
-            "overlayOpacity": 0.2
+            "overlayOpacity": "0.5"
           },
           "title": "ISRAEL: LEADERS IN MEDICAL RESEARCH",
-          "text": "<p>CannAVIV™ has a product developement team integrated right into Israel's world-leading medical cannabis research field, so that ideas can turn to tested developement and certified product. In Israel, unique government support allows for a true return to a full examination of the Cannabis plant's unique and largely untapped medical potential including research in:</p>",
+          "text": "<p>CannAVIV™ has a product developement team integrated right into Israel's world-leading medical cannabis research field, so that ideas can turn to tested developement and certified product including developing FDA approved formulations. In Israel, unique government support allows for a true return to a full examination of the Cannabis plant's unique and largely untapped medical potential including research in:</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
@@ -349,8 +352,8 @@
             "overlayColor": "#28324e",
             "overlayOpacity": 0.2
           },
-          "title": "COLORADO, USA",
-          "text": "<p>Adapting and integrating great practices for Medical use, CannAVIV's™ customer and product developement teams bridge between Israel's medical regulation authority in adapting Adult Use solutions into the Medical use market, and vice-versa. Situated in the first State to legalize Adult Use cannabis, CannAVIV™ Colorado is our prime testing ground for fast product innovation, process developement, and exploration at all stages of the legal manufacture of Adult Use Cannabis.</p><p><a href=\"index.html#contacts3-b\">How can help your project move forward?</a></p>",
+          "title": "COLORADO, USA: PEAK INNOVATION",
+          "text": "<p>Adapting and integrating great practices for Medical use, CannAVIV's™ customer and product developement teams bridge between Israel's medical regulation authority in adapting Adult Use solutions into the Medical use market, and vice-versa. Situated in the first State to legalize Adult Use cannabis, CannAVIV™ Colorado is our prime testing ground for fast product innovation, process developement, and exploration at all stages of the legal manufacture of Adult Use Cannabis.</p><p><a href=\"index.html#contacts3-b\" class=\"text-danger\">How can CannAVIV™ help your project move forward?</a></p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
@@ -467,6 +470,43 @@
         },
         {
           "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "paddingTop": 2,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3C3C3C",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "CannAVIV™ Research and Product Developement",
+          "text": "Every CannAVIV™ product is developed with five key goals in mind:",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"index.html#contacts3-b\" data-toolbar=\"-mbrBtnMove\">START A JOURNEY</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-10"
+        },
+        {
+          "_styles": {
             ".mbr-brand__name": {
               "font-size": "16px"
             },
@@ -546,7 +586,7 @@
             "showButtons": false,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "columns": 5,
+            "columns": "5",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -584,7 +624,7 @@
             }
           },
           "title1": "CONSISTANCY OF PRODUCT",
-          "caption1": "Bootstrap&nbsp;",
+          "caption1": " Sourced and quality controlled Cannabis products",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
             "image": {
@@ -604,7 +644,7 @@
             }
           },
           "title2": "CONSISTANCY OF DOSE",
-          "caption2": "One&nbsp;",
+          "caption2": "Tested for strength and purity ",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
@@ -624,7 +664,7 @@
             }
           },
           "title3": "SCALABILITY OF DOSE",
-          "caption3": "Solutions",
+          "caption3": "Proprietary Micro- to large dosing scalable delivery method",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
             "image": {
@@ -643,8 +683,8 @@
               "size": 0
             }
           },
-          "title4": "Targetted Strain/CBD/ endocannabinoid user/disease specific products&nbsp;",
-          "caption4": "gdfsfdfs",
+          "title4": "CANNABINOID<div>RESPONSIVE</div><div>STRAINS</div>",
+          "caption4": "Targetted Strain/CBD/ endocannabinoid user/indication specific products tested for outcome efficacy and regulatory approval",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media5": {
             "image": {
@@ -663,8 +703,8 @@
               "size": 0
             }
           },
-          "title5": "TRENDY WEBSITE BLOCKS",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title5": "FDA APPROVED",
+          "caption5": "Developing medical products using FDA tested and approved cannabis.&nbsp;",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media6": {
             "image": {
@@ -687,7 +727,12 @@
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "_name": "content4",
-          "_anchor": "content4-y"
+          "_anchor": "content4-z",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
         },
         {
           "_params": {
