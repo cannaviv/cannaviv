@@ -580,7 +580,7 @@
           "_params": {
             "showHeader": false,
             "showSubheader": false,
-            "showImages": false,
+            "showImages": true,
             "showTitles": true,
             "showCaptions": true,
             "showButtons": false,
@@ -609,9 +609,12 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "images/bootstrap.png",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1-1200x675.jpg",
               "class": "mbr-figure__img",
-              "width": 600
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
             },
             "video": {
               "class": "mbr-figure__img",
@@ -619,6 +622,9 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features1",
+              "linkInNewWindow": false,
+              "name": "quote-left",
+              "family": "MobiriseIcons",
               "link": "",
               "size": 0
             }
@@ -629,9 +635,12 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "images/responsive.png",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1200x822.jpg",
               "class": "mbr-figure__img",
-              "width": 600
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
             },
             "video": {
               "class": "mbr-figure__img",
@@ -649,9 +658,12 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "images/google-fonts.png",
+              "src": "@PROJECT_PATH@/assets/images/mbr-6-1200x800.jpg",
               "class": "mbr-figure__img",
-              "width": 600
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
             },
             "video": {
               "class": "mbr-figure__img",
@@ -669,9 +681,12 @@
           "media4": {
             "image": {
               "active": true,
-              "src": "images/unlimited-websites.png",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1-1200x750.jpg",
               "class": "mbr-figure__img",
-              "width": 600
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
             },
             "video": {
               "class": "mbr-figure__img",
@@ -689,9 +704,12 @@
           "media5": {
             "image": {
               "active": true,
-              "src": "images/blocks.png",
+              "src": "@PROJECT_PATH@/assets/images/mbr-5-1200x800.jpg",
               "class": "mbr-figure__img",
-              "width": 600
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
             },
             "video": {
               "class": "mbr-figure__img",
@@ -703,8 +721,8 @@
               "size": 0
             }
           },
-          "title5": "FDA APPROVED",
-          "caption5": "Developing medical products using FDA tested and approved cannabis.&nbsp;",
+          "title5": "FDA APPROVAL",
+          "caption5": "Developing Medical-grade products using FDA approved cannabis products.&nbsp;",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media6": {
             "image": {
