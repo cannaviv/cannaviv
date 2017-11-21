@@ -12,7 +12,7 @@
       ]
     },
     "versionFirst": "4.4.1",
-    "uniqCompNum": 52,
+    "uniqCompNum": 54,
     "versionPublish": "4.4.1",
     "favicon": "",
     "noImageResize": ""
@@ -1046,19 +1046,21 @@
             "bgColor": "#ffffff",
             "slides": [
               {
-                "image": "images/slide2.jpg",
-                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/mbr-1440x1080.jpg",
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
-                "title": "An International Hub",
+                "title": "AN INTERNATIONAL HUB",
                 "contentAlign": "left",
                 "text": "The Israeli government has laid out the regulatory process that will enable companies to develop proprietary FDA approved formulations based on Israel's open and productive ongoing Cannabis clinical research outcomes for a wide range of conditions. Cannabis Entrepreneurship is shifting to the regulated medical market and our Israeli team including our chemical engineer, product development specialists, and regulation navigation consultants will modify an existing product or develop new products for your company and brand. Then it needs international distribution channels only possible via Israel:",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"page2.html#contacts3-15\" data-toolbar=\"-mbrBtnMove\">EUROPE</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"page2.html#contacts3-15\" data-toolbar=\"-mbrBtnMove\">ASIA</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"page2.html#contacts3-15\" data-toolbar=\"-mbrBtnMove\">SOUTH AMERICA</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"page2.html#contacts3-15\" data-toolbar=\"-mbrBtnMove\">SOUTH AMERICA</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"page2.html#contacts3-15\" data-toolbar=\"-mbrBtnMove\">AUSTRALIA</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"page2.html#contacts3-15\" data-toolbar=\"-mbrBtnMove\">EUROPE</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"page2.html#contacts3-15\" data-toolbar=\"-mbrBtnMove\">ASIA</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"page2.html#contacts3-15\" data-toolbar=\"-mbrBtnMove\">SOUTH AMERICA</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"page2.html#contacts3-15\" data-toolbar=\"-mbrBtnMove\">SOUTH AMERICA</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"page2.html#contacts3-15\" data-toolbar=\"-mbrBtnMove\">AUSTRALIA</a>",
+                "overlay": true,
+                "overlayOpacity": "0.7"
               },
               {
-                "image": "images/slide1.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/mbr-9-1620x1080.jpg",
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -1075,7 +1077,7 @@
                 "showTitle": true,
                 "title": "COLORADO &amp; ISRAEL",
                 "contentAlign": "center",
-                "text": "Your business will need to develop much more than just a corporate entity in Israel. &nbsp;It will need to develop the infrastructure and staff necessary to begin producing a regulated product that can be exported legally to new medical and future further adult use markets around the world as regulation in both medical and adult use leaps forward. CannAVIV™ adapts current and new businesses, concurrently developing products and offering proprietary solutions to you for the coming tsunami of international Cannabis expansion.",
+                "text": "Your business will need to develop much more than just a corporate entity in Israel. &nbsp;It will need to develop the infrastructure and staff necessary to begin producing a regulated product that can be exported legally to new medical and future further adult use markets around the world as regulation in both medical and adult use leaps forward. With offices in Colorado and Israel, CannAVIV™ adapts current and new businesses, concurrently developing products and offering proprietary solutions to you for the coming tsunami of international Cannabis growth",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"page3.html#header2-1e\" data-toolbar=\"-mbrBtnMove\">CannAVIV™ TEAM</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page2.html#contacts3-15\" data-toolbar=\"-mbrBtnMove\">CONTACT</a>"
               }
             ]
@@ -1085,7 +1087,12 @@
             "Theme"
           ],
           "_name": "slider",
-          "_anchor": "slider-17"
+          "_anchor": "slider-17",
+          "_styles": {
+            "P": {
+              "color": "#efefef"
+            }
+          }
         },
         {
           "_styles": {
