@@ -107,3 +107,48 @@
 #contacts3-e P {
   font-size: 14px;
 }
+#header1-16 P {
+  color: #efefef;
+}
+#msg-box3-19 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-19 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#menu-13 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-13.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-13 .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-13 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#contacts3-15 P {
+  font-size: 14px;
+}
+#msg-box3-1f .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-1f .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#menu-1a .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-1a.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-1a .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-1a .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#contacts3-1c P {
+  font-size: 14px;
+}
