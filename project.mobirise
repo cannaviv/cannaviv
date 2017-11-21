@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "CANNAVIV 2",
-    "currentPage": "page2.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -1090,7 +1090,11 @@
           "_anchor": "slider-17",
           "_styles": {
             "P": {
-              "color": "#efefef"
+              "color": "#efefef",
+              "text-align": "left"
+            },
+            "H1": {
+              "text-align": "left"
             }
           }
         },

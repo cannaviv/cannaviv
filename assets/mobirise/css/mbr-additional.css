@@ -112,6 +112,10 @@
 }
 #slider-17 P {
   color: #efefef;
+  text-align: left;
+}
+#slider-17 H1 {
+  text-align: left;
 }
 #msg-box3-19 .mbr-header .mbr-header__text {
   text-align: center;
