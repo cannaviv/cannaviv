@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "CANNAVIV 2",
-    "currentPage": "page3.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -528,8 +528,8 @@
               "size": 0
             }
           },
-          "title4": "CANNABINOID<div>RESPONSIVE</div><div>STRAINS</div>",
-          "caption4": "Targeted Strain/CBD/ endocannabinoid user/indication specific products tested for outcome efficacy and regulatory approval",
+          "title4": "ENDOCANNABINOID<div>RESPONSIVE</div><div>STRAINS</div>",
+          "caption4": "Targeted strain/terpen<br>CBD/cannabinoid<br>indication specific products tested for outcome efficacy",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media5": {
             "image": {
@@ -1066,7 +1066,7 @@
                 "showTitle": true,
                 "title": "A TEAM OF TEAMS",
                 "contentAlign": "right",
-                "text": "Working with top international Cannabis Organizations including the Israel Cannabis Association, American Israel Cannabis Association, CannAnthropy, Technion University, Hebrew University of Jerusalem, and Hadassah Hospital's Cannabis Research Department, our teams are rooted in your successful expansion<br>",
+                "text": "Working with access to top international Cannabis Organizations including the Technion University, Hebrew University of Jerusalem, our teams are rooted in your successful expansion<br>",
                 "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page2.html#contacts3-15\" data-toolbar=\"-mbrBtnMove\">CONTACT</a>"
               },
               {
