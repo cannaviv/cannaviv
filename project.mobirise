@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "CANNAVIV 2",
-    "currentPage": "page2.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -1296,7 +1296,7 @@
           },
           "title": "CannAVIV ™ Team",
           "text": "Coming Soon",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning animated fadeInUp delay\" href=\"index.html#header4-0\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"index.html#header4-0\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "_tags": [
             "Theme"
           ],
