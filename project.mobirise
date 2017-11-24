@@ -12,7 +12,7 @@
       ]
     },
     "versionFirst": "4.4.1",
-    "uniqCompNum": 54,
+    "uniqCompNum": 56,
     "versionPublish": "4.4.1",
     "favicon": "",
     "noImageResize": "",
@@ -720,7 +720,7 @@
             "showBrand": true,
             "showButtons": true,
             "sticky": true,
-            "collapsed": true,
+            "collapsed": false,
             "transparent": false,
             "color": "#2c2c2c",
             "hamburgerColor": "#ffffff"
@@ -895,7 +895,7 @@
             "showBrand": true,
             "showButtons": true,
             "sticky": true,
-            "collapsed": true,
+            "collapsed": false,
             "transparent": false,
             "color": "#2c2c2c",
             "hamburgerColor": "#ffffff"
@@ -1168,7 +1168,7 @@
             "showBrand": true,
             "showButtons": true,
             "sticky": true,
-            "collapsed": true,
+            "collapsed": false,
             "transparent": false,
             "color": "#2c2c2c",
             "hamburgerColor": "#ffffff"
@@ -1374,7 +1374,7 @@
             "showBrand": true,
             "showButtons": true,
             "sticky": true,
-            "collapsed": true,
+            "collapsed": false,
             "transparent": false,
             "color": "#2c2c2c",
             "hamburgerColor": "#ffffff"
