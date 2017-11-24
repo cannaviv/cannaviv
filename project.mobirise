@@ -720,7 +720,7 @@
             "showBrand": true,
             "showButtons": true,
             "sticky": true,
-            "collapsed": false,
+            "collapsed": true,
             "transparent": false,
             "color": "#2c2c2c",
             "hamburgerColor": "#ffffff"
@@ -895,7 +895,7 @@
             "showBrand": true,
             "showButtons": true,
             "sticky": true,
-            "collapsed": false,
+            "collapsed": true,
             "transparent": false,
             "color": "#2c2c2c",
             "hamburgerColor": "#ffffff"
@@ -1168,7 +1168,7 @@
             "showBrand": true,
             "showButtons": true,
             "sticky": true,
-            "collapsed": false,
+            "collapsed": true,
             "transparent": false,
             "color": "#2c2c2c",
             "hamburgerColor": "#ffffff"
@@ -1374,7 +1374,7 @@
             "showBrand": true,
             "showButtons": true,
             "sticky": true,
-            "collapsed": false,
+            "collapsed": true,
             "transparent": false,
             "color": "#2c2c2c",
             "hamburgerColor": "#ffffff"
