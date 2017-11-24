@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "CANNAVIV 2",
+    "name": "CannAviv",
     "currentPage": "index.html",
     "theme": {
       "name": "default",
@@ -17,7 +17,14 @@
     "favicon": "",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "",
+    "siteUrl": "",
+    "sitemapSwitcherAuto": "on",
+    "google-analytics": "",
+    "cookiesAlert": "",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
