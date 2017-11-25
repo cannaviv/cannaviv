@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "CannAviv",
+    "name": "CannAviv-clone",
     "currentPage": "index.html",
     "theme": {
       "name": "default",
@@ -58,7 +58,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "WELCOME TO CANNAVIV™",
+          "title": "WELCOME TO TEST2 CANNAVIV™",
           "text": "Legal Adult Use + Medical Cannabis Solutions",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"https://cannaviv.github.io/cannaviv/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MOBILE SITE</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"page2.html#header1-16\" data-toolbar=\"-mbrBtnMove\">YOUR SOLUTION</a> ",
           "_tags": [
@@ -78,7 +78,8 @@
             "I": {
               "color": "#ffffff"
             }
-          }
+          },
+          "_customCSS": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">"
         },
         {
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
@@ -701,20 +702,6 @@
           "_anchor": "msg-box4-5"
         },
         {
-          "_styles": {
-            ".mbr-brand__name": {
-              "font-size": "16px"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
-            }
-          },
           "_params": {
             "logo": true,
             "showBrand": true,
@@ -748,7 +735,12 @@
             "Theme"
           ],
           "_name": "menu",
-          "_anchor": "menu-8"
+          "_anchor": "menu-8",
+          "_customCSS": ".mbr-brand__name {\n  font-size: 16px;\n}\n&.mbr-navbar--stuck .mbr-navbar__section {\n  background: #2c2c2c;\n}\n.mbr-navbar__section {\n  background: #2c2c2c;\n}\n.mbr-navbar__hamburger {\n  color: #ffffff;\n}\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
+          "_customHTML": "<section class=\"mbr-navbar mbr-navbar--freeze mbr-navbar--absolute mbr-navbar--sticky mbr-navbar--collapsed\" data-rv-view=\"133\">\n    <div class=\"mbr-navbar__section mbr-section\">\n        <div class=\"mbr-section__container container\">\n            <div class=\"mbr-navbar__container\">\n                <div class=\"mbr-navbar__column mbr-navbar__column--s mbr-navbar__brand\">\n                    <span class=\"mbr-navbar__brand-link mbr-brand mbr-brand--inline\">\n                        <span class=\"mbr-brand__logo\"><a href=\"mailto:cannaviv@gmail.com\"><img src=\"@PROJECT_PATH@/assets/images/mbr-197x256.jpg\" class=\"mbr-navbar__brand-img mbr-brand__img\" alt=\"Mobirise\"></a></span>\n                        <span class=\"mbr-brand__name\"><a class=\"mbr-brand__name text-white mbr-editable-button\" href=\"mailto:cannaviv@gmail.com\" code-editable-id=\"15\">CannAVIV™&nbsp;</a></span>\n                    </span>\n                </div>\n                <div class=\"mbr-navbar__hamburger mbr-hamburger\"><span class=\"mbr-hamburger__line\"></span></div>\n                <div class=\"mbr-navbar__column mbr-navbar__menu\">\n                    <nav class=\"mbr-navbar__menu-box mbr-navbar__menu-box--inline-right\">\n                        <div class=\"mbr-navbar__column\">\n                            <ul class=\"mbr-navbar__items mbr-navbar__items--right float-left mbr-buttons mbr-buttons--freeze mbr-buttons--right btn-decorator mbr-buttons--activated\"><li class=\"mbr-navbar__item\"><a class=\"mbr-buttons__link btn text-white mbr-editable-menu-item\" href=\"index.html#contacts3-b\" code-editable-id=\"16\">CONTACT</a></li></ul>                            \n                            <ul class=\"mbr-navbar__items mbr-navbar__items--right mbr-buttons mbr-buttons--freeze mbr-buttons--right btn-inverse mbr-buttons--activated\"><li class=\"mbr-navbar__item\"><a class=\"mbr-buttons__btn btn btn-default mbr-editable-button\" href=\"http://www.cannaviv.com\" code-editable-id=\"17\">HOME</a></li></ul>\n                        </div>\n                    </nav>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customTemplate": true
         },
         {
           "_params": {
