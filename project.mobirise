@@ -12,7 +12,7 @@
       ]
     },
     "versionFirst": "4.4.1",
-    "uniqCompNum": 56,
+    "uniqCompNum": 57,
     "versionPublish": "4.4.1",
     "favicon": "",
     "noImageResize": "",
@@ -37,6 +37,20 @@
         "html_before": ""
       },
       "components": [
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<!-- Type valid HTML here -->\n<img class=\"my-image\" src=\"@PROJECT_PATH@/assets/images/code-editor-placeholder.jpg\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
+          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-1k",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
+        },
         {
           "_inherit": "header1",
           "_params": {
