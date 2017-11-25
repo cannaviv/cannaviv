@@ -732,7 +732,18 @@
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": ".mbr-brand__name {\n  font-size: 16px;\n}\n&.mbr-navbar--stuck .mbr-navbar__section {\n  background: #2c2c2c;\n}\n.mbr-navbar__section {\n  background: #2c2c2c;\n}\n.mbr-navbar__hamburger {\n  color: #ffffff;\n}\n",
-          "_customTemplate": true
+          "_customTemplate": true,
+          "_styles": {
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_params": {
