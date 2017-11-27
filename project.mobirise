@@ -137,7 +137,7 @@
               "color": "#fff"
             },
             ".mbr-article P": {
-              "color": "#efefef"
+              "color": "#d14841"
             }
           },
           "_params": {
@@ -160,7 +160,7 @@
             "darkBackground": true,
             "overlay": true,
             "overlayColor": "#28324e",
-            "overlayOpacity": "0.5"
+            "overlayOpacity": "0.9"
           },
           "title": "ISRAEL: LEADERS IN MEDICAL RESEARCH",
           "text": "<p>CannAVIV™ has a product development team integrated right into Israel's world-leading medical cannabis research field, so that ideas can turn to tested development and certified product. This includes developing new <b>FDA approved formulations</b>. In Israel, unique government support allows for a true return to a full examination of the Cannabis plant's unique and largely untapped medical potential including research in:</p>",
@@ -339,7 +339,7 @@
           "_styles": {
             ".mbr-header .mbr-header__text": {
               "text-align": "center",
-              "color": "#fff"
+              "color": "#efefef"
             },
             ".mbr-header .mbr-header__subtext": {
               "text-align": "center",
@@ -362,7 +362,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-1620x1080.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-15-1620x1080.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -373,7 +373,7 @@
             "darkBackground": true,
             "overlay": true,
             "overlayColor": "#28324e",
-            "overlayOpacity": 0.2
+            "overlayOpacity": "0.6"
           },
           "title": "COLORADO, USA: PEAK INNOVATION",
           "text": "<p>CannAVIV's™ customer and product development teams bridge between Israel's medical regulatory authority and ongoing clinically researched outcomes, and <b>Adult Use</b> solutions available to the&nbsp;<b>Medical Use</b> market, and vice-versa. Adapting and integrating products for <b>FDA Approved&nbsp;Medical </b>as well as<b> Legal Adult Use</b>, CannAVIV™ taps into Colorado's prime testing ground for fast product research and innovation, and customer and process development at various stages of bringing the newest FDA approved <b>Medical </b>and<b> Legal Adult Use Cannabis products to market</b>.</p><p><a href=\"page2.html#header1-16\" class=\"text-danger\">How can CannAVIV™ help your project move forward?</a></p>",
