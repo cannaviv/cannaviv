@@ -2,19 +2,14 @@
 
 #header4-0 {
 H1 {
-  color: #000000;
+  color: #ffffff;
   text-align: center;
 }
 P {
-  color: #41a85f;
+  color: #ffffff;
 }
 I {
   color: #ffffff;
-}
-.mbr-iconfont {
-}
-.mbr-table-cell {
-  vertical-align: middle;
 }
 <meta name="viewport" content="width=device-width, initial-scale=1">}
 
@@ -25,13 +20,6 @@ H1 {
 P {
   color: #000000;
   text-align: left;
-}
-.mbr-iconfont {
-  color: #fff;
-  border-color: #fff;
-}
-.mbr-table-cell {
-  vertical-align: bottom;
 }
 }
 
@@ -48,12 +36,7 @@ P {
   color: #fff;
 }
 .mbr-article P {
-  color: #d14841;
-}
-.mbr-iconfont {
-}
-.mbr-table-cell {
-  vertical-align: middle;
+  color: #efefef;
 }
 }
 
@@ -78,11 +61,6 @@ P {
 .mbr-article P {
   text-align: center;
   color: #efefef;
-}
-.mbr-iconfont {
-}
-.mbr-table-cell {
-  vertical-align: middle;
 }
 }
 

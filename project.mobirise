@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "CannAviv-clone",
+    "name": "CannAviv",
     "currentPage": "index.html",
     "theme": {
       "name": "default",
@@ -24,7 +24,7 @@
     "robotsSwitcher": "on",
     "siteUrl": "",
     "sitemapSwitcherAuto": "on",
-    "google-analytics": "<meta name=viewport content=\"width=device-width, initial-scale=1, user-scalable=no\">",
+    "google-analytics": "<meta name=viewport content=\"width=device-width, initial-scale=1, user-scalable=yes\">",
     "cookiesAlert": "",
     "sitemapSwitcher": "on"
   },
@@ -60,7 +60,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "WELCOME TO4 CANNAVIV™",
+          "title": "WELCOME TO CANNAVIV™",
           "text": "Legal Adult Use + Medical Cannabis Solutions",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"https://cannaviv.github.io/cannaviv/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MOBILE SITE</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"page2.html#header1-16\" data-toolbar=\"-mbrBtnMove\">YOUR SOLUTION</a> ",
           "_tags": [
@@ -71,18 +71,14 @@
           "_anchor": "header4-0",
           "_styles": {
             "H1": {
-              "color": "#000000",
+              "color": "#ffffff",
               "text-align": "center"
             },
             "P": {
-              "color": "#41a85f"
+              "color": "#ffffff"
             },
             "I": {
               "color": "#ffffff"
-            },
-            ".mbr-iconfont": {},
-            ".mbr-table-cell": {
-              "vertical-align": "middle"
             }
           },
           "_customCSS": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">"
@@ -123,13 +119,6 @@
             "P": {
               "color": "#000000",
               "text-align": "left"
-            },
-            ".mbr-iconfont": {
-              "color": "#fff",
-              "border-color": "#fff"
-            },
-            ".mbr-table-cell": {
-              "vertical-align": "bottom"
             }
           }
         },
@@ -148,11 +137,7 @@
               "color": "#fff"
             },
             ".mbr-article P": {
-              "color": "#d14841"
-            },
-            ".mbr-iconfont": {},
-            ".mbr-table-cell": {
-              "vertical-align": "middle"
+              "color": "#efefef"
             }
           },
           "_params": {
@@ -366,10 +351,6 @@
             ".mbr-article P": {
               "text-align": "center",
               "color": "#efefef"
-            },
-            ".mbr-iconfont": {},
-            ".mbr-table-cell": {
-              "vertical-align": "middle"
             }
           },
           "_params": {
@@ -446,13 +427,13 @@
           "_params": {
             "showHeader": false,
             "showSubheader": false,
-            "showImages": false,
+            "showImages": true,
             "showTitles": true,
             "showCaptions": true,
             "showButtons": false,
             "paddingTop": "2",
             "paddingBottom": 3,
-            "columns": 5,
+            "columns": "5",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -634,7 +615,7 @@
           "_params": {
             "showTitle": true,
             "showText": false,
-            "showButtons": true,
+            "showButtons": false,
             "paddingTop": 2,
             "paddingBottom": 3,
             "bgImageRadio": true,
