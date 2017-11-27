@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "CannAviv",
+    "name": "CannAviv-clone",
     "currentPage": "index.html",
     "theme": {
       "name": "default",
@@ -8,7 +8,9 @@
       "styling": {},
       "additionalSetColors": [
         "#50433d",
-        "#3c3c3c"
+        "#3c3c3c",
+        "#733838",
+        "#777777"
       ]
     },
     "versionFirst": "4.4.1",
@@ -69,7 +71,7 @@
           "_anchor": "header4-0",
           "_styles": {
             "H1": {
-              "color": "#ffffff",
+              "color": "#000000",
               "text-align": "center"
             },
             "P": {
@@ -77,6 +79,10 @@
             },
             "I": {
               "color": "#ffffff"
+            },
+            ".mbr-iconfont": {},
+            ".mbr-table-cell": {
+              "vertical-align": "middle"
             }
           },
           "_customCSS": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">"
@@ -117,6 +123,13 @@
             "P": {
               "color": "#000000",
               "text-align": "left"
+            },
+            ".mbr-iconfont": {
+              "color": "#fff",
+              "border-color": "#fff"
+            },
+            ".mbr-table-cell": {
+              "vertical-align": "bottom"
             }
           }
         },
@@ -136,6 +149,10 @@
             },
             ".mbr-article P": {
               "color": "#efefef"
+            },
+            ".mbr-iconfont": {},
+            ".mbr-table-cell": {
+              "vertical-align": "middle"
             }
           },
           "_params": {
@@ -325,7 +342,12 @@
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "_name": "content4",
-          "_anchor": "content4-r"
+          "_anchor": "content4-r",
+          "_styles": {
+            "P": {
+              "color": "#777777"
+            }
+          }
         },
         {
           "_inherit": "msg-box3",
@@ -344,6 +366,10 @@
             ".mbr-article P": {
               "text-align": "center",
               "color": "#efefef"
+            },
+            ".mbr-iconfont": {},
+            ".mbr-table-cell": {
+              "vertical-align": "middle"
             }
           },
           "_params": {
@@ -420,13 +446,13 @@
           "_params": {
             "showHeader": false,
             "showSubheader": false,
-            "showImages": true,
+            "showImages": false,
             "showTitles": true,
             "showCaptions": true,
             "showButtons": false,
             "paddingTop": "2",
             "paddingBottom": 3,
-            "columns": "5",
+            "columns": 5,
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -608,7 +634,7 @@
           "_params": {
             "showTitle": true,
             "showText": false,
-            "showButtons": false,
+            "showButtons": true,
             "paddingTop": 2,
             "paddingBottom": 3,
             "bgImageRadio": true,
@@ -686,7 +712,7 @@
           ],
           "_styles": {
             ".mbr-header__text": {
-              "color": "#ffffff"
+              "color": "#000000"
             },
             ".mbr-header__subtext": {
               "color": "#ffffff"

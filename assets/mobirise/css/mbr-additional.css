@@ -2,7 +2,7 @@
 
 #header4-0 {
 H1 {
-  color: #ffffff;
+  color: #000000;
   text-align: center;
 }
 P {
@@ -10,6 +10,11 @@ P {
 }
 I {
   color: #ffffff;
+}
+.mbr-iconfont {
+}
+.mbr-table-cell {
+  vertical-align: middle;
 }
 <meta name="viewport" content="width=device-width, initial-scale=1">}
 
@@ -20,6 +25,13 @@ H1 {
 P {
   color: #000000;
   text-align: left;
+}
+.mbr-iconfont {
+  color: #fff;
+  border-color: #fff;
+}
+.mbr-table-cell {
+  vertical-align: bottom;
 }
 }
 
@@ -38,9 +50,17 @@ P {
 .mbr-article P {
   color: #efefef;
 }
+.mbr-iconfont {
+}
+.mbr-table-cell {
+  vertical-align: middle;
+}
 }
 
 #content4-r {
+P {
+  color: #777777;
+}
 }
 
 #content5-s {
@@ -58,6 +78,11 @@ P {
 .mbr-article P {
   text-align: center;
   color: #efefef;
+}
+.mbr-iconfont {
+}
+.mbr-table-cell {
+  vertical-align: middle;
 }
 }
 
@@ -90,7 +115,7 @@ P {
 
 #msg-box4-5 {
 .mbr-header__text {
-  color: #ffffff;
+  color: #000000;
 }
 .mbr-header__subtext {
   color: #ffffff;
