@@ -61,7 +61,7 @@
             "overlayOpacity": 0.5
           },
           "title": "WELCOME TO CANNAVIV™",
-          "text": "Legal Adult Use + Medical Cannabis Solutions",
+          "text": "Medical Cannabis + Legal Adult Use Solutions",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"https://cannaviv.github.io/cannaviv/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MOBILE SITE</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"page2.html#header1-16\" data-toolbar=\"-mbrBtnMove\">YOUR SOLUTION</a> ",
           "_tags": [
             "Theme"
@@ -137,7 +137,7 @@
               "color": "#fff"
             },
             ".mbr-article P": {
-              "color": "#eb6b56"
+              "color": "#e25041"
             }
           },
           "_params": {
@@ -146,8 +146,8 @@
             "showCaption": "noCaption",
             "showText": true,
             "showButton": false,
-            "paddingTop": 3,
-            "paddingBottom": "3",
+            "paddingTop": "3",
+            "paddingBottom": "2",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-5-1620x1080.jpg",
             "parallax": true,
@@ -360,9 +360,9 @@
             "showText": true,
             "showButton": false,
             "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingBottom": "2",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-15-1620x1080.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-16-1620x1080.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -398,7 +398,7 @@
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "paddingTop": 2,
+            "paddingTop": "3",
             "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
@@ -413,7 +413,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "CannAVIV™ Research and Product Development",
+          "title": "CannAVIV™ RESEARCH AND PRODUCT DEVELOPMENT",
           "text": "Every CannAVIV™ product is developed with five key goals in mind:",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"index.html#contacts3-b\" data-toolbar=\"-mbrBtnMove\">START A JOURNEY</a>",
           "_tags": [
@@ -616,13 +616,13 @@
             "showTitle": true,
             "showText": false,
             "showButtons": false,
-            "paddingTop": 2,
-            "paddingBottom": 3,
-            "bgImageRadio": true,
+            "paddingTop": "3",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
