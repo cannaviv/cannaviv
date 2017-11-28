@@ -26,7 +26,7 @@ P {
 #content5-q {
 .mbr-header .mbr-header__text {
   text-align: center;
-  color: #fff;
+  color: #ffffff;
 }
 .mbr-header .mbr-header__subtext {
   text-align: center;
@@ -36,7 +36,7 @@ P {
   color: #fff;
 }
 .mbr-article P {
-  color: #d14841;
+  color: #eb6b56;
 }
 }
 
@@ -152,10 +152,10 @@ P {
 }
 #slider-17 P {
   color: #efefef;
-  text-align: left;
+  text-align: center;
 }
 #slider-17 H1 {
-  text-align: left;
+  text-align: center;
 }
 #msg-box3-19 .mbr-header .mbr-header__text {
   text-align: center;
