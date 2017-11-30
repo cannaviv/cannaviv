@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "CannAviv",
-    "currentPage": "page2.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -61,7 +61,7 @@
             "overlayOpacity": 0.5
           },
           "title": "WELCOME TO CANNAVIV™",
-          "text": "Medical Cannabis + Legal Adult Use Solutions",
+          "text": "Medical Cannabis + Legal Adult-Use Solutions",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"https://cannaviv.github.io/cannaviv/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MOBILE SITE</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"page2.html#header1-16\" data-toolbar=\"-mbrBtnMove\">YOUR SOLUTION</a> ",
           "_tags": [
             "Theme"
@@ -283,7 +283,7 @@
               "size": 0
             }
           },
-          "title4": "BRAIN HEALTH/RECOVERY",
+          "title4": "BRAIN HEALTH/REHAB",
           "caption4": "<b>Reducing</b>&nbsp;<b>Seizure</b> intensity and length, <b>Traumatic Brain Injury</b> (TBI) prevention and improved recovery outlooks",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media5": {
@@ -376,7 +376,7 @@
             "overlayOpacity": "0.6"
           },
           "title": "COLORADO, USA: PEAK INNOVATION",
-          "text": "<p>CannAVIV's™ customer and product development teams bridge between Israel's medical regulatory authority and ongoing clinically researched outcomes, and those&nbsp;<b>Adult Use</b> solutions available to the&nbsp;<b>Medical Use</b> market, and vice-versa. Adapting products for <b>FDA Approved&nbsp;Medical</b> as well as <b>Legal Adult-Use</b>, CannAVIV™ offers and develops proprietory solutions. CannAVIV™ taps into Colorado's prime legal testing ground for fast product research and innovation, and customer and process development at various stages of bringing the newest <b>FDA approved Medical </b>and<b> Legal Adult Use Cannabis products to market</b>.</p><p><a href=\"page2.html#header1-16\" class=\"text-danger\">How can CannAVIV™ move your project move forward?</a></p>",
+          "text": "<p>CannAVIV's™ customer and product development teams bridge between Israel's medical regulatory authority and ongoing clinically researched outcomes, and those&nbsp;<b>Adult-Use</b> solutions available to the&nbsp;<b>Medical Use</b> market, and vice-versa. Adapting products for <b>FDA Approved&nbsp;Medical</b> as well as <b>Legal Adult-Use</b>, CannAVIV™ offers and develops proprietory solutions. CannAVIV™ taps into Colorado's prime legal testing ground for fast product research and innovation, and customer and process development at various stages of bringing the newest <b>FDA approved Medical </b>and<b> Legal Adult Use Cannabis products to market</b>.</p><p><a href=\"page2.html#header1-16\" class=\"text-danger\">How can CannAVIV™ move your project move forward?</a></p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
@@ -476,8 +476,8 @@
               "size": 0
             }
           },
-          "title1": "CONSISTANCY OF PRODUCT",
-          "caption1": " Sourced and quality controlled Cannabis products",
+          "title1": "CONSISTANCY OF PRODUCT<br><br>",
+          "caption1": "Sourced and quality controlled Cannabis products",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
             "image": {
@@ -499,7 +499,7 @@
               "size": 0
             }
           },
-          "title2": "CONSISTANCY OF DOSAGE",
+          "title2": "CONSISTANCY OF DOSAGE<br><br>",
           "caption2": "Tested for strength and purity ",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
@@ -522,7 +522,7 @@
               "size": 0
             }
           },
-          "title3": "SCALABILITY OF DOSE",
+          "title3": "SCALABILITY OF DOSE<br><br><br>",
           "caption3": "Proprietary Micro- to large dosing scalable delivery method",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
@@ -568,7 +568,7 @@
               "size": 0
             }
           },
-          "title5": "DISTRIBUTION WITH FDA APPROVAL",
+          "title5": "DISTRIBUTION WITH FDA APPROVAL<br><br>",
           "caption5": "Developing Medical-grade products using FDA approved cannabis drugs/products via new Israeli supported distribution channels.",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media6": {
@@ -1039,8 +1039,8 @@
             "overlayOpacity": 0.5
           },
           "title": "",
-          "text": "Your North-American adult-Use or Med-Rec cannabis business is ready to expand. Further legitimize itself by moving into a true FDA approved medical product line backed by clinical trials and hard scientific data with products and distribution channels ready to expand into newly created markets. <br><br>You will soon enter new overseas markets where Medical cannabis is exploding, but it won't be possible from the U.S. due to regulation. Adapting your entire business model and products won't be easy without guidance, but this is the time to move into Cannabis 2.0",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"page2.html#slider-17\" data-toolbar=\"-mbrBtnMove\">HOW IT WORKS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CONTACT</a>",
+          "text": "Your North-American Adult-Use or Med-Rec cannabis business is ready to expand. Further legitimize itself by moving into a true FDA approved medical product line backed by clinical trials and hard scientific data with products and distribution channels ready to expand into newly created markets. <br><br>You will soon enter new overseas markets where medical cannabis is exploding, but it won't be possible from the U.S. due to regulation. Adapting your entire business model and products won't be easy without guidance, and this is the time to move into Cannabis 2.0",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"page2.html#slider-17\" data-toolbar=\"-mbrBtnMove\">HOW IT WORKS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"page2.html#contacts3-15\" data-toolbar=\"-mbrBtnMove\">CONTACT</a>",
           "_tags": [
             "Theme"
           ],
