@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "CannAviv",
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -1064,20 +1064,20 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1440x1080.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
-                "title": "AN INTERNATIONAL HUB",
-                "contentAlign": "left",
+                "title": "INTERNATIONAL HUB",
+                "contentAlign": "center",
                 "text": "The Israeli government has laid out the regulatory process and condition that will enable companies to develop proprietary FDA approved formulations based on Israel's open and productive ongoing cannabis clinical research outcomes for a wide range of conditions.<br><br>Cannabis is adapting to the regulated medical market and our Israeli team including our chemical engineer, product development specialists, and regulation navigation consultants will modify an existing product or develop new products for your company and brand. Then it needs international distribution channels only possible via Israel:",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"page2.html#contacts3-15\" data-toolbar=\"-mbrBtnMove\">EUROPE</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"page2.html#contacts3-15\" data-toolbar=\"-mbrBtnMove\">ASIA</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"page2.html#contacts3-15\" data-toolbar=\"-mbrBtnMove\">SOUTH AMERICA</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"page2.html#contacts3-15\" data-toolbar=\"-mbrBtnMove\">SOUTH AMERICA</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"page2.html#contacts3-15\" data-toolbar=\"-mbrBtnMove\">AUSTRALIA</a>",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"page2.html#contacts3-15\" data-toolbar=\"-mbrBtnMove\">EUROPE</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"page2.html#contacts3-15\" data-toolbar=\"-mbrBtnMove\">ASIA</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"page2.html#contacts3-15\" data-toolbar=\"-mbrBtnMove\">NORTH AMERICA</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"page2.html#contacts3-15\" data-toolbar=\"-mbrBtnMove\">SOUTH AMERICA</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"page2.html#contacts3-15\" data-toolbar=\"-mbrBtnMove\">AUSTRALIA</a>",
                 "overlay": true,
                 "overlayOpacity": "0.7"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-14-1620x1080.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
